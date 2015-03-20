@@ -1,7 +1,8 @@
 [submodule "vendor/locales"]
 	path = vendor/locales
-	url = https://github.com/citation-style-language/locales.git
-	branch = master
+	url = git@github.com:easybiblabs/locales.git
+	branch = eb-locales
 [submodule "vendor/styles"]
 	path = vendor/styles
-	url = https://github.com/citation-style-language/styles-distribution.git
+	url = git@github.com:easybiblabs/styles.git
+	branch = eb-styles
